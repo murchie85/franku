@@ -14,6 +14,17 @@ This project aims to produce an AI that can generate new Filthy Frank scripts wi
 - Generate new scripts.  
 - Work on voice synthesis 
 
+## Low Level   
+  
+Once the initial scripts have been colalted from using `youtube` -> `captions` -> `edit` and saving to file: sentences will need to be tokenised. Most NLP processes work best on smaller chunks rather than episodes at a time. The challenge will setting delimiters, token values, and associated meta-data.  
+
+## Potential MetaData design   
+
+| Episode        | Length           | text  |
+| ------------- |:-------------:| -----:|
+| PINK GUY COOKS FRIED RICE AND RAPS   | 14      |   I ain't no Gordon Ramsey but I make the best damn rice ya pansies. | 
+
+ 
 
 # Tools 
   
