@@ -21,3 +21,11 @@ A list of suggested tools to work with.
   
 - word2vec
 - nltk
+- Spacy for preprocessing and tokenisaiton
+- LSTM keras 
+
+
+links 
+
+https://www.kaggle.com/jrobischon/wikipedia-movie-plots/kernels
+https://juanitorduz.github.io/movie_plot_text_gen/ 
