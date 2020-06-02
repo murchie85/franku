@@ -20,9 +20,9 @@ Once the initial scripts have been colalted from using `youtube` -> `captions` -
 
 ## Potential MetaData design   
 
-| Episode        | Length           | text  |
+| Episode        | Length           | special words  | characters | languages   | text  |
 | ------------- |:-------------:| -----:|
-| PINK GUY COOKS FRIED RICE AND RAPS   | 14      |   I ain't no Gordon Ramsey but I make the best damn rice ya pansies. | 
+| PINK GUY COOKS FRIED RICE AND RAPS   | 14      | *slurp noises*     |   pink guy  |  English, Japanese  |    I ain't no Gordon Ramsey but I make the best damn rice ya pansies. | 
 
  
 
