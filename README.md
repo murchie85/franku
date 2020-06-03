@@ -36,7 +36,7 @@ A list of suggested tools to work with.
 - LSTM keras 
 
 
-links 
+Links that may be helpfull  
 
-https://www.kaggle.com/jrobischon/wikipedia-movie-plots/kernels
+https://www.kaggle.com/jrobischon/wikipedia-movie-plots/kernels  
 https://juanitorduz.github.io/movie_plot_text_gen/ 
