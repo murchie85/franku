@@ -8,8 +8,8 @@ This project aims to produce an AI that can generate new Filthy Frank scripts wi
    
 # Goals  
 
-- Learn up and select proper NLP framework for the job 
-- Test this on movie scripts. 
+- Evaluate the best NLP framework for the job 
+- Test this initially on movie/music scripts. 
 - Collate all the Filthy Frank episode dialogue into text files.  
 - Generate new scripts.  
 - Work on voice synthesis 
@@ -36,7 +36,7 @@ A list of suggested tools to work with.
 - LSTM keras 
 
 
-Links that may be helpfull  
+Links that have beeen helpfull  
 
-https://www.kaggle.com/jrobischon/wikipedia-movie-plots/kernels  
-https://juanitorduz.github.io/movie_plot_text_gen/ 
+https://www.kaggle.com/jrobischon/wikipedia-movie-plots/kernels    
+https://juanitorduz.github.io/movie_plot_text_gen/   
